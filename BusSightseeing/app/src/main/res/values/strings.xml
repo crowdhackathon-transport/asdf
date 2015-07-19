@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BusSightseeing</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_routes">RoutesActivity</string>
+    <string name="title_activity_android_sqlite">AndroidSQLite</string>
+    <string name="title_activity_route">RouteActivity</string>
+    <string name="title_activity_stop_list">StopListActivity</string>
+    <string name="title_activity_places">PlacesActivity</string>
+    <string name="title_activity_place_picker">PlacePicker</string>
+</resources>
